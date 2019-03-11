@@ -1,1 +1,3 @@
-function scuberGreetingForFeet ()
+function scuberGreetingForFeet (rideLength){
+  if 
+}
