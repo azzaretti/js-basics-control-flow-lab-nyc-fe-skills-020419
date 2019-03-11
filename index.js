@@ -1,3 +1,3 @@
 function scuberGreetingForFeet (rideLength){
-  if (ride)
+  if (rideLength <= 400)
 }
