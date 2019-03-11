@@ -8,4 +8,6 @@ function scuberGreetingForFeet (rideLength){
 }
 }
 
-function ternaryCheckCity
+function ternaryCheckCity {
+  
+}
