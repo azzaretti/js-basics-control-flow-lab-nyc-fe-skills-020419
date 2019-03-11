@@ -8,6 +8,7 @@ function scuberGreetingForFeet (rideLength){
 }
 }
 
-function ternaryCheckCity () {
+function ternaryCheckCity (city) {
+  if (city === NYC)
   
 }
