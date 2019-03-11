@@ -3,7 +3,7 @@ function scuberGreetingForFeet (rideLength){
   return 'This one is on me!'
 } else if (rideLength > 2000) {
   return 'I will gladly take your thirty bucks.'
-} else (rideLength > 2500) {
+} else if (rideLength > 2500) {
   return 'No can do.'
 }
 }
