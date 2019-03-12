@@ -27,7 +27,7 @@ function switchOnCharmFromTip (tipExpression) {
     case notgenerous:
       return 'Thank you.'
       break;
-     anythingElse
+    default:
       return 'Bye.'
   }
 }
