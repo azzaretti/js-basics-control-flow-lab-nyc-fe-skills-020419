@@ -19,7 +19,7 @@ function ternaryCheckCity (city) {
 
 // let tipExpression = 'Thank you so much.'
 
-let genero
+let generous = >20% 
 
 function switchOnCharmFromTip (tipExpression) {
   switch (tipExpression) {
