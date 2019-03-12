@@ -18,6 +18,6 @@ function ternaryCheckCity (city) {
 
 
 
-function switchOnCharmFromTip (tip) {
-  if (tip >)
+function switchOnCharmFromTip (tipExpression) {
+  switch
 }
