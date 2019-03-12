@@ -21,4 +21,6 @@ let tipExpression = 'Thank you so much.'
 
 function switchOnCharmFromTip (tipExpression) {
   switch (tipExpression) {
+    case generous
+  }
 }
