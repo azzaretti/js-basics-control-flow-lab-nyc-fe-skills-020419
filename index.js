@@ -17,6 +17,7 @@ function ternaryCheckCity (city) {
 }
 
 
+let tipExpression = 
 
 function switchOnCharmFromTip (tipExpression) {
   switch
