@@ -28,6 +28,6 @@ function switchOnCharmFromTip (tipExpression) {
       return 'Thank you.'
       break;
     case anythingElse
-      return 'Bye'
+      return 'Bye.'
   }
 }
